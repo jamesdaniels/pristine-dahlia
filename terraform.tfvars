@@ -1,0 +1,5 @@
+project_id                          = "pristine-dahlia-475318-t9"
+domain_name                         = "pristine-dahlia-475318-t9.jamesdaniels.net"
+main_app_cloud_run_service_name     = "nextjs-v16-canary-test"
+grpc_callout_cloud_run_service_name = "nextjs-v16-adapter-callout"
+region                              = "northamerica-northeast1"
