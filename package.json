@@ -9,12 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@apphosting/adapter-nextjs": "file:apphosting-adapter-nextjs-15.0.0.tgz",
     "next": "16.0.0-canary.3",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
   "devDependencies": {
-    "@apphosting/adapter-nextjs": "file:apphosting-adapter-nextjs-15.0.0.tgz",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
