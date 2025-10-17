@@ -1,0 +1,6 @@
+env:
+- variable: FAH_MINIMAL_MODE
+  value: 1
+  availability:
+  - BUILD
+  - RUNTIME
